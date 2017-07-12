@@ -1,2 +1,0 @@
-# sunroseearly.github.io
-site
